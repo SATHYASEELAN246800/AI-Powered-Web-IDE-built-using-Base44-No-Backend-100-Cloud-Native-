@@ -4,6 +4,7 @@
 ### *AI-Powered Web IDE built using Base44 (No Backend, 100% Cloud-Native)*
 
 **Live App:** [https://ai-coder-studio-4578c246.base44.app](https://ai-coder-studio-4578c246.base44.app)
+
 **Workspace:** [https://app.base44.com/apps/690e0a50ab3255f04578c246/editor/preview/landing](https://app.base44.com/apps/690e0a50ab3255f04578c246/editor/preview/landing)
 
 AI Coder Studio is a **full-featured AI-powered Web IDE** built entirely using **Base44’s frontend, data entities, and LLM integrations** — without writing any backend or custom serverless functions.
